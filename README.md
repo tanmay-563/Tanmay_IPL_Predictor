@@ -39,11 +39,11 @@ Example:
 
 ## Home Page
 
-(Add screenshot here)
+![UI Screenshot](./ui.png)
 
 ## Prediction Result
 
-(Add screenshot here)
+![Code Screenshot](./code.png)
 
 ---
 
